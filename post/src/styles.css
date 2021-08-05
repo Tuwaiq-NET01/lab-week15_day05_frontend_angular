@@ -1,0 +1,8 @@
+
+@import 'bootstrap/dist/css/bootstrap.css';
+
+.main{
+display: grid;
+align-items: center;
+justify-content: center;
+}
